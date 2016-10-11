@@ -4,7 +4,7 @@
 
 ### Challenge List
 
-1. Day 0: Hello, World. [Difficulty: Easy]
+1. Day 0: Hello, World. [Difficulty: Easy] [Status: Complete]
 2. Day 1: Data Types [Difficulty: Easy]
 3. Day 2: Operators [Difficulty: Easy]
 4. Day 3: Intro to Conditional Statements [Difficulty: Easy]
